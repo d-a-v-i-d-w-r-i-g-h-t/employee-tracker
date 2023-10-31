@@ -1,3 +1,17 @@
 const mysql = require("mysql2");
-const inquirer = require("inquirer");
 
+const welcome = require('./lib/welcome.js');
+const userInput = require('./lib/userInput.js');
+const mainMenu = require("./lib/mainMenu.js");
+
+function main() {
+
+  welcome();
+
+  mainMenu();
+
+}
+
+
+
+main();
