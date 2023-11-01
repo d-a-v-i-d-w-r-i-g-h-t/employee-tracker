@@ -52,5 +52,5 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES
     ('Wedge', 'Antilles', 11, 10),
     ('R2-D2', '', 8, 15),
     ('Biggs', 'Darklighter', 11, 22),
-    ('Han', 'Solo', 3, 26),
-    ('Chewbacca', '', 4, 26);
+    ('Han', 'Solo', 3, 25),
+    ('Chewbacca', '', 4, 25);
