@@ -1,5 +1,5 @@
-const welcome = require('./lib/welcome.js');
-const mainMenu = require("./lib/mainMenu.js");
+const welcome = require('./lib/welcome');
+const mainMenu = require('./lib/mainMenu');
 
 function main() {
 
