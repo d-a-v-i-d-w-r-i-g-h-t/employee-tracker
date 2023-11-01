@@ -50,7 +50,6 @@ INSERT INTO employee (first_name, last_name, role_id, manager_id) VALUES
     ('Admiral', 'Jerjerrod', 17, 9),
     ('General', 'Veers', 17, 9),
     ('Wedge', 'Antilles', 11, 10),
-    ('Captain', 'Piett', 17, 10),
     ('R2-D2', '', 8, 15),
     ('Biggs', 'Darklighter', 11, 22),
     ('Han', 'Solo', 3, 26),
