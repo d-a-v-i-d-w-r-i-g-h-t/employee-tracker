@@ -28,6 +28,8 @@ Update the password in file ```/lib/mysqlQuery.js``` as desired.
 
 ## Usage 
 
+A video walkthrough for using the application is available [here](https://watch.screencastify.com/v/HqsCa41jHUu900Mj2v2H).
+
 To run the application, use the command
 
 ```
